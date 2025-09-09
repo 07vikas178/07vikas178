@@ -5,7 +5,7 @@
 
 ### 🚀 Connect with me:
 <p align="center">
-  <a href="https://instagram.com/_vikas._.07" target="_blank">
+  <a href="https://instagram.com/__vikas_v7__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/vikasviky76543" target="_blank">
