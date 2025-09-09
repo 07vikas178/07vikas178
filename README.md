@@ -20,7 +20,7 @@
 
 ### 💻 Languages and Tools:
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,express,html,java,js,mongodb,mysql,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,nodejs,express,mongodb,mysql,postman" />
 </p>
 
 ---
